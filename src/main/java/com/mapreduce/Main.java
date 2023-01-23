@@ -1,4 +1,4 @@
-package org.example;
+package com.mapreduce;
 
 public class Main {
     public static void main(String[] args) {
